@@ -1,0 +1,4 @@
+POST http://localhost:8000/similar-recognition HTTP/1.1
+content-type: application/json
+
+{"text1": "Is it anybody out there?", "text2": "Is it anybody in there?"}
