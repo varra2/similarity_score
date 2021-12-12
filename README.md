@@ -43,7 +43,7 @@ Conversion notes:
 
 
 
-    * source .venv
+    * source .venv/bin/activate
 * Установите необходимые для работы программы модули
     * pip install -r requirements.txt
 
