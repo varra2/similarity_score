@@ -53,7 +53,7 @@ urlpatterns = [
 
 #settings and manage
 
-settings.configure(ROOT_URLCONF=__name__, ALLOWED_HOSTS=['*'])
+settings.configure(ROOT_URLCONF=__name__, ALLOWED_HOSTS=['*'], SECRET_KEY = 'abvgdjka')
 
 if __name__=='__main__':
     execute_from_command_line(sys.argv)
