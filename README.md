@@ -49,7 +49,7 @@ Conversion notes:
 
 **Использование**
 
-Код _swissknife.py _запускает локальный сервер с единственным эндпойнтом /similar-recognition. 
+Код _swissknife.py _запускает локальный сервер с единственным эндпойнтом /similar-recognition по адресу http://localhost:8000/similar-recognition
 
 Команда запуска:
 
